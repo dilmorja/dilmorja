@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexacry&show_icons=true&locale=en&layout=compact&theme=dark" alt="hexacry" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexacry&show_icons=true&locale=en&theme=dark" alt="hexacry" /></p>
