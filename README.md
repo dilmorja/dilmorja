@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Go, JS and TS**
 
-- 📫 How to reach me **hexacry@gmail.com**
+- 📫 How to reach me **dilmorja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
