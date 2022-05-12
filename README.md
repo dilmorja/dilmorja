@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dilmorja](https://github.com/dilmorja)
+- 👨‍💻 All of my projects are available at [github.com/dilmorja](https://github.com/dilmorja?tab=repositories)
 
 - 💬 Ask me about **Go, JS and TS**
 
